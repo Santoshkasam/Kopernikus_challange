@@ -1,2 +1,2 @@
 # Kopernikus_challange
-This repository contains the .py solution file for the challange given by Kopernikus Automotive for the Perception Engineer interivew process. This repository also contain the pdf file for theoretical answers for questions relating to the dataset and the challenge.
+This repository contains the .py solution file for the challenge Kopernikus Automotive gave for the Perception Engineer interview process. This repository also has the pdf file for theoretical answers to questions relating to the dataset and the challenge.
